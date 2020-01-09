@@ -1,0 +1,28 @@
+{
+  "name": "sass-color-transformer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pirosikick/sass-color-transformer.git"
+  },
+  "keywords": [],
+  "author": "Hiroyuki ANAI <pirosikick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pirosikick/sass-color-transformer/issues"
+  },
+  "homepage": "https://github.com/pirosikick/sass-color-transformer#readme",
+  "dependencies": {
+    "query-ast": "^1.0.2",
+    "scss-parser": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "jest": "^24.9.0"
+  }
+}
